@@ -1,6 +1,6 @@
 class DocumentInfos:
 
-    title = u'Programmation dynamique'
+    title = u'sgdsfg dynamique'
     first_name = 'Cédric'
     last_name = 'Donner'
     author = f'{first_name} {last_name}'
